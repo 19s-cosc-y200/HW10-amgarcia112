@@ -1,0 +1,47 @@
+/*Project Name: Pacific Trails Resort (HW9)Author: Alyssa GarciaDate Last Modified: April 3, 2019*//*Set the body background, text color, and font style */
+body { background-color: #FFFFFF;
+	color: #666666;
+	font-family: Verdana, Arial, sans-serif;
+}
+
+/*Set the header background, text color, and font style*/
+header { background-color: #000033;
+	color: #FFFFFF;
+	font-family: Georgia, serif;
+}
+
+/* Set h1 element to configure 200% line height*/
+h1 { line-height: 200%; }
+
+/*set nav element bold text and background*/
+nav { font-weight: bold;
+	background-color: #90C7E3;
+}
+
+/*set h2 element text color and font style*/
+h2 { color: #3399CC;
+	font-family: Georgia, serif;
+}
+
+/*set d2 element text color and font weight*/
+d2 { color: #000033;
+	font-weight: bold;
+}
+
+/*
+
+/* style all elements with class="resort"*/
+.resort { color: #000033;
+	font-size: 1.2em;
+}
+
+/* set footer font size, font style, and alignment to center*/
+footer { font-size: .70em;
+	font-style: italic;
+	text-align: center;
+}
+
+#wrapper { margin-left: auto;
+	margin-right: auto;
+	width: 80%;
+}
